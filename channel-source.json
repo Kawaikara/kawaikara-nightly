@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "channel": "nightly",
-  "version": "3.0.0-nightly.20260919.45.1.g1e071d1b",
-  "tag": "v3.0.0-nightly.20260919.45.1.g1e071d1b",
+  "version": "3.0.0-nightly.20260919.47.1.g4a9fa1ae",
+  "tag": "v3.0.0-nightly.20260919.47.1.g4a9fa1ae",
   "sourceRepository": "fabyday/kawaikara",
   "sourceBranch": "dev",
-  "sourceCommit": "1e071d1bf0504fcecde74e4127657b115fd992f9",
-  "sourceRunId": "35409749276",
-  "sourceRunUrl": "https://github.com/fabyday/kawaikara/actions/runs/35409749276",
-  "createdAt": "2026-09-19T00:33:32.909Z"
+  "sourceCommit": "4a9fa1aee3e5061b1cdafe375f5e0345fc6dd19e",
+  "sourceRunId": "35416635165",
+  "sourceRunUrl": "https://github.com/fabyday/kawaikara/actions/runs/35416635165",
+  "createdAt": "2026-09-19T02:46:23.417Z"
 }
